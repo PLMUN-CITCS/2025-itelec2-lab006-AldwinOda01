@@ -1,3 +1,7 @@
+# Aldwin Odavar
+# ITELEC2
+# Laboratory #06 – Utilizing Basic Math Libraries in Python
+
 import math
 
 # Calculate the square root of 16
@@ -12,9 +16,9 @@ angle_degrees = 30
 angle_radians = math.radians(angle_degrees)
 sin_result = math.sin(angle_radians)
 
-# Calculate the cosine of 60 degrees and tangent of 45 degrees
+# Calculate the cosine and tangent of an angle
 cos_result = math.cos(math.radians(60))  # Cosine of 60 degrees
-tan_result = math.tan(math.radians(30))  # Tangent of 30 degrees (Corrected!)
+tan_result = math.tan(math.radians(45))  # Tangent of 45 degrees
 
 # Calculate the exponential and logarithms
 exp_result = math.exp(2)  # e^2
